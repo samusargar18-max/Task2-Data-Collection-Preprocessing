@@ -1,0 +1,18 @@
+DATA COLLECTION & PREPROCESSING - EXECUTION SUMMARY
+====================================================
+dataset: UCI Optical Recognition of Handwritten Digits (scikit-learn load_digits subset)
+original_public_source_samples: 1797
+working_raw_rows_including_demo_duplicates: 1800
+raw_duplicate_rows_detected: 3
+raw_missing_cells_detected_before_type_correction: 8
+rows_after_duplicate_removal: 1797
+final_clean_rows: 1797
+final_columns_including_engineered_features: 67
+missing_cells_after_cleaning: 0
+duplicate_rows_after_cleaning: 0
+pixel_value_min_after_cleaning: 0.0
+pixel_value_max_after_cleaning: 16.0
+engineered_features: ['total_ink', 'active_pixels']
+target_column: digit
+
+Status: SUCCESS - cleaned dataset saved.

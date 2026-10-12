@@ -1,0 +1,2 @@
+Dataset attribution: Optical Recognition of Handwritten Digits dataset family, UCI Machine Learning Repository. Dataset page: https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits
+The local source CSV was generated using scikit-learn's load_digits() public dataset loader (1,797 samples, 64 pixel features and target). Refer to the dataset page and scikit-learn documentation for full source and licensing terms. The dirty working file contains intentionally injected demonstration errors and should not be confused with original source data.
